@@ -1,5 +1,4 @@
 I'm Daniel, hello there.
-
 Join my fullstack journey.
 --------------------------
 
