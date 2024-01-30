@@ -1,6 +1,5 @@
-I'm Daniel, hello there.
-Join my fullstack journey.
---------------------------
+# Hello there.
+## I'm Daniel, join my fullstack journey.
 
 ### Skills
 
